@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+  <complexes>
+    <complex code="C1">
+      <name>Central Complex</name>
+      <address>Main Street 123</address>
+    </complex>
+    <complex code="C2">
+      <name>Complex</name>
+      <address>Adress 1</address>
+    </complex>
+  </complexes>
+  <lessons>
+    <lesson po="101" complex="C1">
+      <date>2024-11-20</date>
+      <time>10:00</time>
+    </lesson>
+    <lesson po="102" complex="C2">
+      <date>2024-11-21</date>
+      <time>12:00</time>
+    </lesson>
+  </lessons>
+</timeTable>
